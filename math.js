@@ -10,6 +10,6 @@ if (valore == rightanswer) {
 }
 else {
 
-    formname.innerHTML ="<div style='background-color:pink'><div style='text-align:center'><h1>Sorry, you where wrong: The answer was: " + rightanswer + "</h1></div>";
+    formname.innerHTML ="<div style='background-color:pink'><div style='text-align:center'><h1>Sorry, you were wrong: The answer was: " + rightanswer + "</h1></div>";
 }
 }
